@@ -44,6 +44,8 @@ I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/
         *   frontend: [Clojurescript, React Native, Keechma, Helix, Tailwind, Three.js]
         *   backend: [Clojure, Hikari-CP, PostgreSQL, Next.jdbc, HoneySQL]
         *   applications: [Jira, Figma, Slack, Github, pgAdmin, Docker, Circle CI]
+    * ![UI](https://raw.githubusercontent.com/dudleycraig/portfolio/refs/heads/main/isaha.site-reporting-and-issue-tracking.gif)
+
 
 *   **Solenoid Engine** *virtual representation of real-world metrics*.
     *   Responsibilities
@@ -52,6 +54,8 @@ I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/
         *   frontend: [React, Zustand, Three.js, React-Three-Fiber, Bootstrap (css)]
         *   backend: [Express, SQLite]
         *   applications: [Blender, Inkscape, Gimp]
+    * ![UI](https://raw.githubusercontent.com/dudleycraig/portfolio/refs/heads/main/solenoid-engine.thumb.gif)
+
 
 *   **OpsCore** *management of mining industry resources*.
     *   Responsibilities
