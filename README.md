@@ -5,7 +5,7 @@
 **LANGUAGES** English, Afrikaans<br>
 **EMAIL** [dudleycraig@gmail.com](mailto:dudleycraig@gmail.com)<br>
 **ROLE** Senior Software Developer<br>
-**CURRENT CORE TECH** Clojure<br>
+**CORE TECH** Clojure<br>
 **GITHUB** [https://github.com/dudleycraig](https://github.com/dudleycraig)<br>
 **LINKED-IN** [https://www.linkedin.com/in/dudleycraig](https://www.linkedin.com/in/dudleycraig)<br>
 **PERSONAL** [http://functional.org.za](http://functional.org.za)<br>
