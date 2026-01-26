@@ -26,7 +26,7 @@ I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/
     *   Responsibilities
         *   Scope: estimations, deployment schedule, Figma designs, hosting/domain management, CI/CD pipeline.
         *   Backend: Datomic/Datascript schema modelling and querying, integrant service management (http, logging, cache, db pool, etc), stateful and stateless CRUD API, authentication/authorization and apache poi reports.
-        *   Frontend: Datomic/Datascript schema modelling and querying, Re-Frame ### Résumé of Dudley Craig
+        *   Frontend: Datomic/Datascript schema modelling and querying, user and domain models' administration, building site navigation, issue tracking.
     *   Technologies
         *   Backend: [Clojure, Clojure CLI Tools, Integrant, Datomic, Ring/Reitit, Apache POI, Buddy Auth, Kaocha, Clojure.spec]
         *   Frontend: [ClojureScript, ShadowCljs, Integrant, Datascript, Reagent, Re-Frame, Datascript, Reitit, DaisyUI]
