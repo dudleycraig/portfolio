@@ -101,7 +101,7 @@ I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/
     *   Technologies
         *   frontend: [React, Three.js, Styled Components, Leaflet, proj4]
         *   applications: [Github, QGIS, Gimp, Inkscape, Blender]
-    * ![UI](https://raw.githubusercontent.com/dudleycraig/portfolio/refs/heads/main/glanbia.thumb.gif)
+    * ![UI](https://raw.githubusercontent.com/dudleycraig/portfolio/refs/heads/main/blockv.thumb.gif)
 
 *   **SA Weather** *real-time weather for South Africa*.
     *   Responsibilities
