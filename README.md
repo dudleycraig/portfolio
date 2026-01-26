@@ -165,7 +165,7 @@ I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/
 | :--- | :--- | :--- | :--- | :--- |
 | clojure | 60 | y | 6 | Mostly in web development across web and mobile. |
 | clojurescript | 60 | y | 7 | |
-| java | 48 | n | 6 | Barely used now, but relevant in the context of Clojure. |
+| java | 48 | n | 6 | |
 | python | 6 | y | 2 | Recently started learning Python for ML/AI within context of Clojure (libpython-clj) |
 | javascript | 180 | y | 7 | |
 | typescript | 48 | y | 6 | |
