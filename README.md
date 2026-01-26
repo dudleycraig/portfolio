@@ -1,4 +1,4 @@
-# Résumé of Dudley Craig
+# Portfolio of Dudley Craig
 
 **FULL NAME** Dudley Craig<br>
 **LOCATION** Cape Town, South Africa (+2 GMT)<br>
