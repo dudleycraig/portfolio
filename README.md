@@ -1,14 +1,14 @@
 # Résumé of Dudley Craig
 
-**FULL NAME** Dudley Craig
-**LOCATION** Cape Town, South Africa (+2 GMT)
-**LANGUAGES** English, Afrikaans
-**EMAIL** [dudleycraig@gmail.com](mailto:dudleycraig@gmail.com)
-**ROLE** Senior Software Developer
-**CURRENT CORE TECH** Clojure
-**GITHUB** [https://github.com/dudleycraig](https://github.com/dudleycraig)
-**LINKED-IN** [https://www.linkedin.com/in/dudleycraig](https://www.linkedin.com/in/dudleycraig)
-**PERSONAL** [http://functional.org.za](http://functional.org.za)
+**FULL NAME** Dudley Craig<br>
+**LOCATION** Cape Town, South Africa (+2 GMT)<br>
+**LANGUAGES** English, Afrikaans<br>
+**EMAIL** [dudleycraig@gmail.com](mailto:dudleycraig@gmail.com)<br>
+**ROLE** Senior Software Developer<br>
+**CURRENT CORE TECH** Clojure<br>
+**GITHUB** [https://github.com/dudleycraig](https://github.com/dudleycraig)<br>
+**LINKED-IN** [https://www.linkedin.com/in/dudleycraig](https://www.linkedin.com/in/dudleycraig)<br>
+**PERSONAL** [http://functional.org.za](http://functional.org.za)<br>
 
 ## Overview
 
