@@ -31,6 +31,7 @@ I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/
         *   Backend: [Clojure, Clojure CLI Tools, Integrant, Datomic, Ring/Reitit, Apache POI, Buddy Auth, Kaocha, Clojure.spec]
         *   Frontend: [ClojureScript, ShadowCljs, Integrant, Datascript, Reagent, Re-Frame, Datascript, Reitit, DaisyUI]
         *   Applications: [Figma, Docker, CircleCI, DBeaver, Gimp, Blender]
+    * ![Room and Issue Navigation](https://raw.githubusercontent.com)
 
 *   **Very Big Things** *digital media company specialising in Clojure/Script*.
     *   Responsibilities
