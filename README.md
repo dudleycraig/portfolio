@@ -44,8 +44,6 @@ I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/
         *   frontend: [Clojurescript, React Native, Keechma, Helix, Tailwind, Three.js]
         *   backend: [Clojure, Hikari-CP, PostgreSQL, Next.jdbc, HoneySQL]
         *   applications: [Jira, Figma, Slack, Github, pgAdmin, Docker, Circle CI]
-    * ![UI](https://raw.githubusercontent.com/dudleycraig/portfolio/refs/heads/main/isaha.site-reporting-and-issue-tracking.gif)
-
 
 *   **Solenoid Engine** *virtual representation of real-world metrics*.
     *   Responsibilities
@@ -82,6 +80,7 @@ I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/
         *   frontend: [Typescript, React, Apollo Client (GraphQL), Styled Components, Leaflet]
         *   backend: [Typescript, Express, Apollo Server (GraphQL), PostgreSQL, PostGIS, TypeORM]
         *   applications: [Jira, Figma, Slack, Github, pgAdmin, Docker, QGIS, AWS CI/CD]
+    * ![UI](https://raw.githubusercontent.com/dudleycraig/portfolio/refs/heads/main/ucook.thumb.gif)
 
 *   **Glanbia** *e-Commerce (b2b) sports nutrition*.
     *   Responsibilities
@@ -102,6 +101,7 @@ I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/
     *   Technologies
         *   frontend: [React, Three.js, Styled Components, Leaflet, proj4]
         *   applications: [Github, QGIS, Gimp, Inkscape, Blender]
+    * ![UI](https://raw.githubusercontent.com/dudleycraig/portfolio/refs/heads/main/glanbia.thumb.gif)
 
 *   **SA Weather** *real-time weather for South Africa*.
     *   Responsibilities
@@ -133,6 +133,7 @@ I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/
         *   frontend: [Spring Framework, jQuery]
         *   backend: [Java, Hybris, Spring Framework, Hibernate, MySQL]
         *   applications: [Jira, Github, MySQL Workbench]
+    * ![UI](https://raw.githubusercontent.com/dudleycraig/portfolio/refs/heads/main/clicks.thumb.gif)
 
 *   **Edgars** *e-commerce store*.
     *   Responsibilities
@@ -155,6 +156,7 @@ I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/
         *   frontend: [jQuery, jQueryUI, Bootstrap, WAP, XSLT]
         *   backend: [Java (J2ME, J2EE), Spring Framework, PHP, Zend, Hibernate, MySQL, Cassandra]
         *   applications: [Github, MySQL Workbench, Gimp, Inkscape]
+    * ![UI](https://raw.githubusercontent.com/dudleycraig/portfolio/refs/heads/main/indaba-mobile.thumb.gif)
 
 ## Skills
 
