@@ -46,7 +46,6 @@ I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/
         *   applications: [Jira, Figma, Slack, Github, pgAdmin, Docker, Circle CI]
     * ![Cryptoys Unboxing](https://raw.githubusercontent.com/dudleycraig/portfolio/refs/heads/main/vbt.cryptoys.animation.gif)
 
-
 *   **Solenoid Engine** *virtual representation of real-world metrics*.
     *   Responsibilities
         *   fullstack design and development of application.
@@ -55,7 +54,6 @@ I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/
         *   backend: [Express, SQLite]
         *   applications: [Blender, Inkscape, Gimp]
     * ![UI](https://raw.githubusercontent.com/dudleycraig/portfolio/refs/heads/main/solenoid-engine.thumb.gif)
-
 
 *   **OpsCore** *management of mining industry resources*.
     *   Responsibilities
@@ -162,11 +160,10 @@ I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/
 
 ## Skills
 
-
 | Name | Experience (in months) | Current | Proficiency (MAX 10) | Usage |
 | :--- | :--- | :--- | :--- | :--- |
 | clojure | 60 | y | 6 | Stateful/Stateless, HTTP:/HTTPS:/WS:, REST/GraphQL/SSE APIs. |
-| clojurescript | 60 | y | 7 | SPAs extended as PWAs and cross platform applications built around React Native/Expo. |
+| <span style="white-space: nowrap;">clojurescript</span> | 60 | y | 7 | SPAs extended as PWAs and cross platform applications built around React Native/Expo. |
 | java | 48 | n | 6 | HYBRIS/Spring eCommerce and enterprise development. |
 | python | 6 | y | 2 | ML/AI integration. |
 | javascript | 180 | y | 7 | Currently used for NPM modules for three.js where Clojurescript becomes a bit cumbersome. But 15+ years of use covers most applications. |
