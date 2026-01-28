@@ -14,8 +14,7 @@
 
 15+ years full-stack. Clojure being preeminent. Previous experience spread across Java, Javascript, Typescript, PHP, C and Perl.<br>
 Industries being fintech, media and commerce via both web and mobile.<br>
-Freelance bread and butter is made up of monorepo API backends and SPA/PWA frontends primarily using an Integrant, Reagent/Re-Frame, Datomic/Datascript, specs and CLI tools tying the stack together with some time savings from Clojure MCP.<br>
-Simple is reliable.<br>
+Freelance made up of monorepo API backends and SPA/PWA frontends primarily using an Integrant/Mount, Reagent/Re-Frame, Datomic/Datascript with specs and CLI tools tying the stack together. Clojure MCP for rubber ducking.<br>
 I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/AI. Fitness via swimming and trail running.
 
 ## Projects
