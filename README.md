@@ -160,9 +160,9 @@ I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/
 
 ## Skills
 
-| Name | Experience (in months) | Current | Proficiency (MAX 10) | Usage |
+| <span style="white-space: nowrap;">Name</span> | <span style="white-space: nowrap;">Experience (in months)</span> | <span style="white-space: nowrap;">Current</span> | <span style="white-space: nowrap;">Proficiency (MAX 10)</span> | <span style="white-space: nowrap;">Usage</span> |
 | :--- | :--- | :--- | :--- | :--- |
-| clojure | 60 | y | 6 | Stateful/Stateless, HTTP:/HTTPS:/WS:, REST/GraphQL/SSE APIs. |
+| <span style="white-space: nowrap;">clojure</span> | 60 | y | 6 | Stateful/Stateless, HTTP:/HTTPS:/WS:, REST/GraphQL/SSE APIs. |
 | <span style="white-space: nowrap;">clojurescript</span> | 60 | y | 7 | SPAs extended as PWAs and cross platform applications built around React Native/Expo. |
 | <span style="white-space: nowrap;">java</span> | 48 | n | 6 | HYBRIS/Spring eCommerce and enterprise development. |
 | <span style="white-space: nowrap;">python</span> | 6 | y | 2 | ML/AI integration. |
