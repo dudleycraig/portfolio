@@ -42,7 +42,7 @@ I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/
     *   Technologies
         *   frontend: [Clojurescript, React Native, Keechma, Helix, Tailwind, Three.js]
         *   backend: [Clojure, Hikari-CP, PostgreSQL, Next.jdbc, HoneySQL]
-        *   applications: [Jira, Figma, Slack, Github, pgAdmin, Docker, Circle CI]
+        *   applications: [Jira, Figma, Slack, Github, pgAdmin, Docker]
     * ![Cryptoys Unboxing](https://raw.githubusercontent.com/dudleycraig/portfolio/refs/heads/main/vbt.cryptoys.animation.gif)
 
 *   **Solenoid Engine** *virtual representation of real-world metrics*.
