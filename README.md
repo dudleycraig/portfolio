@@ -175,7 +175,7 @@ I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/
 | memcached | 56 | n | 7 | |
 | redis | 12 | n | 5 | |
 | rabbitmq | 36 | n | 5 | |
-| next.jdbc | 54 | y | 8 | I prefer to use it for most RDBMS interactions, specifically SQLite, PostgreSQL and MySQL. Abstraction layers tend to be harder to reason about. |
+| next.jdbc | 54 | y | 8 | I prefer to use it for most RDBMS interactions, specifically SQLite, PostgreSQL and MySQL. For me abstraction layers aren't as easily reasoned vs a simple SQL query. |
 | honeysql | 12 | n | 4 | |
 | datomic/datalog | 15 | n | 4 | Lately this has been my "go to" persistence layer as it shares a lot of domain logic with Datascript. |
 | datascript/datalog | 15 | n | 4 | Lately this has been my "go to" state management layer as it shares a lot of domain logic with Datomic. |
