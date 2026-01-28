@@ -164,58 +164,58 @@ I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/
 | :--- | :--- | :--- | :--- | :--- |
 | clojure | 60 | y | 6 | Stateful/Stateless, HTTP:/HTTPS:/WS:, REST/GraphQL/SSE APIs. |
 | <span style="white-space: nowrap;">clojurescript</span> | 60 | y | 7 | SPAs extended as PWAs and cross platform applications built around React Native/Expo. |
-| java | 48 | n | 6 | HYBRIS/Spring eCommerce and enterprise development. |
-| python | 6 | y | 2 | ML/AI integration. |
-| javascript | 180 | y | 7 | Currently used for NPM modules for three.js where Clojurescript becomes a bit cumbersome. But 15+ years of use covers most applications. |
-| typescript | 48 | y | 6 | Currently used for NPM modules for three.js where Clojurescript becomes a bit cumbersome. |
-| sh/bash | 120 | y | 5 | A long time terminal user with many Docker, CI, Environment and System scripts and some applications written in Bash. |
-| memcached | 56 | n | 7 | |
-| redis | 12 | n | 5 | |
-| rabbitmq | 36 | n | 5 | |
-| next.jdbc | 54 | y | 8 | I prefer to use it for most RDBMS interactions, specifically SQLite, PostgreSQL and MySQL. For me abstraction layers aren't as easily reasoned vs a simple SQL query. |
-| honeysql | 12 | n | 4 | |
-| datomic/datalog | 15 | n | 4 | Lately this has been my "go to" persistence layer as it shares a lot of domain logic with Datascript. |
-| datascript/datalog | 15 | n | 4 | Lately this has been my "go to" state management layer as it shares a lot of domain logic with Datomic. |
-| org.postgresql | 72 | y | 7 | |
-| mysql-connector | 72 | n | 7 | |
-| cassandra | 12 | n | 6 | |
-| hikari-cp | 12 | y | 5 | |
-| lacinia (graphql) | 24 | y | 5 | Mostly in larger eCommerce applications. |
-| graphql-query | 24 | y | 5 | |
-| clojure.test/cljs.test | 48 | y | 8 | I don't create many Unit tests as the REPL lends itself to that, but Integration tests are ALWAYS essential. |
-| kaocha | 36 | y | 7 | |
-| jest | 54 | y | 7 | |
-| devcards | 12 | n | 5 | |
-| react (hooks based) | 54 | y | 7 | Lean heavily into hooks for complete state management where I can and eschew more complex event management like Redux. |
-| reagent | 54 | y | 8 | I use it for system state (Integrant/Mount and services) and component state. But Datascript for global state. |
-| re-frame | 24 | y | 5 | On bigger projects I'll use re-frame, but for the most I prefer to avoid the mess I make of it. |
-| helix | 24 | y | 7 | If I'm doing 3D development (three.js) or other react reliant libraries in Clojurescript, I'll use Helix. |
-| react-native (expo) | 24 | y | 5 | A few eCommerce mobile applications, but prefer creating PWAs at this point. |
-| aws s3 | 8 | n | 5 | |
-| firebase | 12 | n | 6 | |
-| tailwind css | 36 | y | 6 | Mobile first, responsive, themed layouts. |
-| daisui | 8 | y | 6 | My preferred component library for the web ... for the moment. |
-| bootstrap css | 84 | n | 8 | |
-| fontawesome | 48 | y | 8 | |
-| styled-components | 12 | n | 6 | |
-| gis | 36 | y | 4 | Spatial queries for courier regions and logistics via PostGIS. Route mapping in WebGL 3d context. Statistical heat maps. Realtime marker movement on WebGL based 2d and 3d renders. Create and test spatial queries, update spatial db’s, pull down satellite and DEM information, translate CRS’s, export different file data types, either vectorize or rasterize files. |
-| proj4 | 36 | y | 5 | |
-| leaflet | 24 | y | 7 | |
-| qgis | 48 | y | 5 | |
-| postgis | 36 | y | 5 | |
-| webgl | 48 | y | 6 | Dynamically streamed media based on user input. Animated SVG icons and schematics. 3d maps based on DEM bumped, satellite textured, Blender models. |
-| svg | 60 | y | 7 | |
-| three.js | 48 | y | 6 | |
-| react-three-fiber | 48 | y | 7 | |
-| d3 | 12 | y | 4 | Realtime rendering of sampled data, representing state of physical machine. |
-| babashka | 6 | y | 5 | Simple tasks, when I need something quick and more than bash for the terminal. |
-| docker | 72 | y | 4 | |
-| machine learning | 6 | y | 1 | Like everyone else, I'm exploring the hype. |
-| libpython-clj | 6 | y | 1 | |
-| pytorch | 6 | y | 3 | |
-| hugging face | 6 | y | 2 | |
-| scicloj | 6 | y | 1 | |
-| deeplearning4j | 6 | y | 1 | |
-| llama.cpp | 6 | y | 5 | |
-| ollama | 12 | y | 5 | |
-| vim/nvim | 180 | y | 6 | My preferred and non-negotiable editor. ;) |
+| <span style="white-space: nowrap;">java</span> | 48 | n | 6 | HYBRIS/Spring eCommerce and enterprise development. |
+| <span style="white-space: nowrap;">python</span> | 6 | y | 2 | ML/AI integration. |
+| <span style="white-space: nowrap;">javascript</span> | 180 | y | 7 | Currently used for NPM modules for three.js where Clojurescript becomes a bit cumbersome. But 15+ years of use covers most applications. |
+| <span style="white-space: nowrap;">typescript</span> | 48 | y | 6 | Currently used for NPM modules for three.js where Clojurescript becomes a bit cumbersome. |
+| <span style="white-space: nowrap;">sh/bash</span> | 120 | y | 5 | A long time terminal user with many Docker, CI, Environment and System scripts and some applications written in Bash. |
+| <span style="white-space: nowrap;">memcached</span> | 56 | n | 7 | |
+| <span style="white-space: nowrap;">redis</span> | 12 | n | 5 | |
+| <span style="white-space: nowrap;">rabbitmq</span> | 36 | n | 5 | |
+| <span style="white-space: nowrap;">next.jdbc</span> | 54 | y | 8 | I prefer to use it for most RDBMS interactions, specifically SQLite, PostgreSQL and MySQL. For me abstraction layers aren't as easily reasoned vs a simple SQL query. |
+| <span style="white-space: nowrap;">honeysql</span> | 12 | n | 4 | |
+| <span style="white-space: nowrap;">datomic/datalog</span> | 15 | n | 4 | Lately this has been my "go to" persistence layer as it shares a lot of domain logic with Datascript. |
+| <span style="white-space: nowrap;">datascript/datalog</span> | 15 | n | 4 | Lately this has been my "go to" state management layer as it shares a lot of domain logic with Datomic. |
+| <span style="white-space: nowrap;">org.postgresql</span> | 72 | y | 7 | |
+| <span style="white-space: nowrap;">mysql-connector</span> | 72 | n | 7 | |
+| <span style="white-space: nowrap;">cassandra</span> | 12 | n | 6 | |
+| <span style="white-space: nowrap;">hikari-cp</span> | 12 | y | 5 | |
+| <span style="white-space: nowrap;">lacinia (graphql)</span> | 24 | y | 5 | Mostly in larger eCommerce applications. |
+| <span style="white-space: nowrap;">graphql-query</span> | 24 | y | 5 | |
+| <span style="white-space: nowrap;">clojure.test/cljs.test</span> | 48 | y | 8 | I don't create many Unit tests as the REPL lends itself to that, but Integration tests are ALWAYS essential. |
+| <span style="white-space: nowrap;">kaocha</span> | 36 | y | 7 | |
+| <span style="white-space: nowrap;">jest</span> | 54 | y | 7 | |
+| <span style="white-space: nowrap;">devcards</span> | 12 | n | 5 | |
+| <span style="white-space: nowrap;">react (hooks based)</span> | 54 | y | 7 | Lean heavily into hooks for complete state management where I can and eschew more complex event management like Redux. |
+| <span style="white-space: nowrap;">reagent</span> | 54 | y | 8 | I use it for system state (Integrant/Mount and services) and component state. But Datascript for global state. |
+| <span style="white-space: nowrap;">re-frame</span> | 24 | y | 5 | On bigger projects I'll use re-frame, but for the most I prefer to avoid the mess I make of it. |
+| <span style="white-space: nowrap;">helix</span> | 24 | y | 7 | If I'm doing 3D development (three.js) or other react reliant libraries in Clojurescript, I'll use Helix. |
+| <span style="white-space: nowrap;">react-native (expo)</span> | 24 | y | 5 | A few eCommerce mobile applications, but prefer creating PWAs at this point. |
+| <span style="white-space: nowrap;">aws s3</span> | 8 | n | 5 | |
+| <span style="white-space: nowrap;">firebase</span> | 12 | n | 6 | |
+| <span style="white-space: nowrap;">tailwind css</span> | 36 | y | 6 | Mobile first, responsive, themed layouts. |
+| <span style="white-space: nowrap;">daisui</span> | 8 | y | 6 | My preferred component library for the web ... for the moment. |
+| <span style="white-space: nowrap;">bootstrap css</span> | 84 | n | 8 | |
+| <span style="white-space: nowrap;">fontawesome</span> | 48 | y | 8 | |
+| <span style="white-space: nowrap;">styled-components</span> | 12 | n | 6 | |
+| <span style="white-space: nowrap;">gis</span> | 36 | y | 4 | Spatial queries for courier regions and logistics via PostGIS. Route mapping in WebGL 3d context. Statistical heat maps. Realtime marker movement on WebGL based 2d and 3d renders. Create and test spatial queries, update spatial db’s, pull down satellite and DEM information, translate CRS’s, export different file data types, either vectorize or rasterize files. |
+| <span style="white-space: nowrap;">proj4</span> | 36 | y | 5 | |
+| <span style="white-space: nowrap;">leaflet</span> | 24 | y | 7 | |
+| <span style="white-space: nowrap;">qgis</span> | 48 | y | 5 | |
+| <span style="white-space: nowrap;">postgis</span> | 36 | y | 5 | |
+| <span style="white-space: nowrap;">webgl</span> | 48 | y | 6 | Dynamically streamed media based on user input. Animated SVG icons and schematics. 3d maps based on DEM bumped, satellite textured, Blender models. |
+| <span style="white-space: nowrap;">svg</span> | 60 | y | 7 | |
+| <span style="white-space: nowrap;">three.js</span> | 48 | y | 6 | |
+| <span style="white-space: nowrap;">react-three-fiber</span> | 48 | y | 7 | |
+| <span style="white-space: nowrap;">d3</span> | 12 | y | 4 | Realtime rendering of sampled data, representing state of physical machine. |
+| <span style="white-space: nowrap;">babashka</span> | 6 | y | 5 | Simple tasks, when I need something quick and more than bash for the terminal. |
+| <span style="white-space: nowrap;">docker</span> | 72 | y | 4 | |
+| <span style="white-space: nowrap;">machine learning</span> | 6 | y | 1 | Like everyone else, I'm exploring the hype. |
+| <span style="white-space: nowrap;">libpython-clj</span> | 6 | y | 1 | |
+| <span style="white-space: nowrap;">pytorch</span> | 6 | y | 3 | |
+| <span style="white-space: nowrap;">hugging face</span> | 6 | y | 2 | |
+| <span style="white-space: nowrap;">scicloj</span> | 6 | y | 1 | |
+| <span style="white-space: nowrap;">deeplearning4j</span> | 6 | y | 1 | |
+| <span style="white-space: nowrap;">llama.cpp</span> | 6 | y | 5 | |
+| <span style="white-space: nowrap;">ollama</span> | 12 | y | 5 | |
+| <span style="white-space: nowrap;">vim/nvim</span> | 180 | y | 6 | My preferred and non-negotiable editor. ;) |
