@@ -165,37 +165,39 @@ I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/
 
 | Name | Experience (in months) | Current | Proficiency (MAX 10) | Usage |
 | :--- | :--- | :--- | :--- | :--- |
-| clojure | 60 | y | 6 | Mostly in web development across web and mobile. |
-| clojurescript | 60 | y | 7 | |
-| java | 48 | n | 6 | |
-| python | 6 | y | 2 | Recently started learning Python for ML/AI within context of Clojure (libpython-clj) |
-| javascript | 180 | y | 7 | |
-| typescript | 48 | y | 6 | |
-| sh/bash | 120 | y | 5 | |
+| clojure | 60 | y | 6 | Stateful/Stateless, HTTP:/HTTPS:/WS:, REST/GraphQL/SSE APIs. |
+| clojurescript | 60 | y | 7 | SPAs extended as PWAs and cross platform applications built around React Native/Expo. |
+| java | 48 | n | 6 | HYBRIS/Spring eCommerce and enterprise development. |
+| python | 6 | y | 2 | ML/AI integration. |
+| javascript | 180 | y | 7 | Currently used for NPM modules for three.js where Clojurescript becomes a bit cumbersome. But 15+ years of use covers most applications. |
+| typescript | 48 | y | 6 | Currently used for NPM modules for three.js where Clojurescript becomes a bit cumbersome. |
+| sh/bash | 120 | y | 5 | A long time terminal user with many Docker, CI, Environment and System scripts and some applications written in Bash. |
 | memcached | 56 | n | 7 | |
 | redis | 12 | n | 5 | |
 | rabbitmq | 36 | n | 5 | |
-| next.jdbc | 54 | y | 8 | Creation and securing of databases. Domain modelling/schema design. Integration of triggers and stored procedures. Straight, batched and prepared queries. |
+| next.jdbc | 54 | y | 8 | I prefer to use it for most RDBMS interactions, specifically SQLite, PostgreSQL and MySQL. Abstraction layers tend to be harder to reason about. |
 | honeysql | 12 | n | 4 | |
-| datomic/datalog | 15 | n | 4 | |
+| datomic/datalog | 15 | n | 4 | Lately this has been my "go to" persistence layer as it shares a lot of domain logic with Datascript. |
+| datascript/datalog | 15 | n | 4 | Lately this has been my "go to" state management layer as it shares a lot of domain logic with Datomic. |
 | org.postgresql | 72 | y | 7 | |
 | mysql-connector | 72 | n | 7 | |
 | cassandra | 12 | n | 6 | |
 | hikari-cp | 12 | y | 5 | |
-| lacinia (graphql) | 24 | y | 5 | Stitching of disparate services into a homogeneous API. |
+| lacinia (graphql) | 24 | y | 5 | Mostly in larger eCommerce applications. |
 | graphql-query | 24 | y | 5 | |
-| clojure.test/cljs.test | 48 | y | 8 | Unit and integration testing of both happy and sad pathing, mostly with kaocha runner. |
+| clojure.test/cljs.test | 48 | y | 8 | I don't create many Unit tests as the REPL lends itself to that, but Integration tests are ALWAYS essential. |
 | kaocha | 36 | y | 7 | |
 | jest | 54 | y | 7 | |
 | devcards | 12 | n | 5 | |
 | react (hooks based) | 54 | y | 7 | Lean heavily into hooks for complete state management where I can and eschew more complex event management like Redux. |
-| reagent | 54 | y | 8 | Preferred UI tech, simple is best. |
-| re-frame | 24 | y | 5 | |
-| helix | 24 | y | 7 | Mobile development used as close to hooks based React as possible with React Native components, Helix and Tailwind for Android, iOS and Web. |
-| react-native (expo) | 24 | y | 5 | |
+| reagent | 54 | y | 8 | I use it for system state (Integrant/Mount and services) and component state. But Datascript for global state. |
+| re-frame | 24 | y | 5 | On bigger projects I'll use re-frame, but for the most I prefer to avoid the mess I make of it. |
+| helix | 24 | y | 7 | If I'm doing 3D development (three.js) or other react reliant libraries in Clojurescript, I'll use Helix. |
+| react-native (expo) | 24 | y | 5 | A few eCommerce mobile applications, but prefer creating PWAs at this point. |
 | aws s3 | 8 | n | 5 | |
 | firebase | 12 | n | 6 | |
 | tailwind css | 36 | y | 6 | Mobile first, responsive, themed layouts. |
+| daisui | 8 | y | 6 | My preferred component library for the web ... for the moment. |
 | bootstrap css | 84 | n | 8 | |
 | fontawesome | 48 | y | 8 | |
 | styled-components | 12 | n | 6 | |
@@ -209,9 +211,9 @@ I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/
 | three.js | 48 | y | 6 | |
 | react-three-fiber | 48 | y | 7 | |
 | d3 | 12 | y | 4 | Realtime rendering of sampled data, representing state of physical machine. |
-| babashka | 6 | y | 5 | |
+| babashka | 6 | y | 5 | Simple tasks, when I need something quick and more than bash for the terminal. |
 | docker | 72 | y | 4 | |
-| machine learning | 6 | y | 1 | Just starting with Machine Learning and Deep Learning. Exploring Hugging Face and Llama.cpp libraries in both Java and Python via Clojure for training open sourced LLM’s. |
+| machine learning | 6 | y | 1 | Like everyone else, I'm exploring the hype. |
 | libpython-clj | 6 | y | 1 | |
 | pytorch | 6 | y | 3 | |
 | hugging face | 6 | y | 2 | |
@@ -219,4 +221,4 @@ I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/
 | deeplearning4j | 6 | y | 1 | |
 | llama.cpp | 6 | y | 5 | |
 | ollama | 12 | y | 5 | |
-| vim/nvim | 180 | y | 6 | |
+| vim/nvim | 180 | y | 6 | My preferred and non-negotiable editor. ;) |
