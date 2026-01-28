@@ -16,7 +16,7 @@
 Industries being fintech, media and commerce via both web and mobile.<br>
 Freelance bread and butter is made up of monorepo API backends and SPA/PWA frontends primarily using an Integrant, Reagent/Re-Frame, Datomic/Datascript, specs and CLI tools tying the stack together with some time savings from Clojure MCP.<br>
 Simple is reliable.<br>
-I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/AI. The dendrites are kept tiptop with open water swimming and trail running.
+I’m based in South Africa (+2 GMT) with interests in GIS, 3D Modelling and ML/AI. Fitness via swimming and trail running.
 
 ## Projects
 
