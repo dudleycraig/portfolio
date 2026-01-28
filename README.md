@@ -6,7 +6,7 @@
 **EMAIL** [dudleycraig@gmail.com](mailto:dudleycraig@gmail.com)<br>
 **ROLE** Senior Software Developer<br>
 **CORE TECH** Clojure<br>
-**GITHUB** [https://github.com/dudleycraig](https://github.com/dudleycraig)<br>
+**GITHUB** [https://github.com/dudleycraig]([https://github.com/dudleycraig](https://github.com/dudleycraig/portfolio/blob/main/README.md))<br>
 **LINKED-IN** [https://www.linkedin.com/in/dudleycraig](https://www.linkedin.com/in/dudleycraig)<br>
 **PERSONAL** [http://functional.org.za](http://functional.org.za)<br>
 
